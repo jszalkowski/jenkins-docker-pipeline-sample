@@ -3,7 +3,7 @@
   "description": "jenkins-docker-pipeline-sample",
   "version": "0.0.1",
   "scripts": {
-    "start": "node server.js",
+    "start": "node server.js"
   },
   "main": "server.js"
 }
