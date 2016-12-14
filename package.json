@@ -2,8 +2,6 @@
   "name": "jenkins-docker-pipeline-sample",
   "description": "jenkins-docker-pipeline-sample",
   "version": "0.0.1",
-  "dependencies": {
-  },
   "scripts": {
     "start": "node server.js",
   },
